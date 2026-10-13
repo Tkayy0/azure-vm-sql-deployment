@@ -87,5 +87,5 @@ This is a small learning deployment on a student subscription, not a production 
 
 ## Related
 
-- GitHub: https://github.com/keeganchinyenze
+- GitHub: https://github.com/Tkayy0
 - LinkedIn: https://www.linkedin.com/in/keeganchinyenze
